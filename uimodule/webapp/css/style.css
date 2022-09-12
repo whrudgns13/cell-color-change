@@ -1,0 +1,12 @@
+/* Enter your custom styles here */
+.red{
+    background-color: red;
+}
+.font-white{
+    color : white;
+}
+
+tr[data-quantity="red"] td[data-sap-ui-colid="__column3"]{
+    background-color: red;
+    color : white;
+}
